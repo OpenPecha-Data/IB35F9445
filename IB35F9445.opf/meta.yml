@@ -1,0 +1,135 @@
+id: IB35F9445
+ocr_import_info:
+  timestamp: '2024-02-01T13:46:51.366381+00:00'
+  batch_id: batch-7464
+  ocr_engine: GoogleVisionEngine
+  ocr_model_type: builtin/weekly
+  ocr_lang_hint: ''
+  software_id: ocr-pipelines@v0.1.11
+  sponsor: Openpecha
+  sponsor_consent: true
+  op_import_options: {}
+  op_import_version: 0.11.7
+default_language: bo
+source: https://library.bdrc.io
+initial_creation_type: ocr
+imported: 2024-02-01 18:50:32.216908+00:00
+last_modified: 2024-02-01 18:50:32.216916+00:00
+source_metadata:
+  id: http://purl.bdrc.io/resource/W1KG14505
+  status: http://purl.bdrc.io/admindata/StatusReleased
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  reproduction_of: http://purl.bdrc.io/resource/MW1KG14505
+  copyright_status: http://purl.bdrc.io/resource/CopyrightPublicDomain
+  title: གསུང་འབུམ། དགེ་འདུན་གྲུབ།
+  languages:
+  - bo
+  author: དགེ་འདུན་གྲུབ་པ།
+statistics:
+  ocr_word_mean_confidence_index: 0.9940924845508573
+  ocr_word_median_confidence_index: 1.0
+bases:
+  I1KG15209:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1KG15209
+      total_pages: 690
+      volume_number: 9
+      volume_pages_bdrc_intro: 2
+    order: 9
+    base_file: I1KG15209.txt
+    statistics:
+      ocr_word_median_confidence_index: 1.0
+      ocr_word_mean_confidence_index: 0.9935217474806691
+  I1KG15203:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1KG15203
+      total_pages: 624
+      volume_number: 3
+      volume_pages_bdrc_intro: 2
+    order: 3
+    base_file: I1KG15203.txt
+    statistics:
+      ocr_word_median_confidence_index: 1.0
+      ocr_word_mean_confidence_index: 0.9945916490649063
+  I1KG15201:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1KG15201
+      total_pages: 836
+      volume_number: 1
+      volume_pages_bdrc_intro: 2
+    order: 1
+    base_file: I1KG15201.txt
+    statistics:
+      ocr_word_median_confidence_index: 1.0
+      ocr_word_mean_confidence_index: 0.9943455609603452
+  I1KG15202:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1KG15202
+      total_pages: 854
+      volume_number: 2
+      volume_pages_bdrc_intro: 2
+    order: 2
+    base_file: I1KG15202.txt
+    statistics:
+      ocr_word_median_confidence_index: 1.0
+      ocr_word_mean_confidence_index: 0.9944997461532373
+  I1KG15206:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1KG15206
+      total_pages: 364
+      volume_number: 6
+      volume_pages_bdrc_intro: 2
+    order: 6
+    base_file: I1KG15206.txt
+    statistics:
+      ocr_word_median_confidence_index: 1.0
+      ocr_word_mean_confidence_index: 0.9936853710042723
+  I1KG15205:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1KG15205
+      total_pages: 642
+      volume_number: 5
+      volume_pages_bdrc_intro: 2
+    order: 5
+    base_file: I1KG15205.txt
+    statistics:
+      ocr_word_median_confidence_index: 1.0
+      ocr_word_mean_confidence_index: 0.9930510904710185
+  I1KG15207:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1KG15207
+      total_pages: 530
+      volume_number: 7
+      volume_pages_bdrc_intro: 2
+    order: 7
+    base_file: I1KG15207.txt
+    statistics:
+      ocr_word_median_confidence_index: 1.0
+      ocr_word_mean_confidence_index: 0.9941887002260571
+  I1KG15208:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1KG15208
+      total_pages: 436
+      volume_number: 8
+      volume_pages_bdrc_intro: 2
+    order: 8
+    base_file: I1KG15208.txt
+    statistics:
+      ocr_word_median_confidence_index: 1.0
+      ocr_word_mean_confidence_index: 0.9945394161014639
+  I1KG15204:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1KG15204
+      total_pages: 544
+      volume_number: 4
+      volume_pages_bdrc_intro: 2
+    order: 4
+    base_file: I1KG15204.txt
+    statistics:
+      ocr_word_median_confidence_index: 1.0
+      ocr_word_mean_confidence_index: 0.9940468500765336
+copyright:
+  status: Public domain
+  notice: Public domain
+  info_url: https://creativecommons.org/publicdomain/mark/1.0/
+license: CC0
